@@ -10,7 +10,7 @@ http://michaelpitchford.co.za/
 https://moaaz-bhnas.github.io/reverse-engineered-psychologist-website/
 
 ## Requeriments
-To clone and run this application, you'll need [Git](https://git-scm.com/).
+To clone this application, you'll need [Git](https://git-scm.com/).
 
 ## Installation
 ```
